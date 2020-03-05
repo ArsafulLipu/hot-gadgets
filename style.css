@@ -1,0 +1,41 @@
+.container {
+    margin-bottom: 100px;
+}
+
+#top-banner {
+    margin-bottom: 0px;
+}
+
+.buy-now-button {
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+    cursor: pointer;
+}
+
+.smartphone h5 {
+    font-size: 18px;
+}
+
+.laptop h5 {
+    font-size: 18px;
+}
+
+#seeAll {
+    color: orange;
+}
+
+#card {
+    border: none;
+}
+
+#btn {
+    border-top: none;
+}
+
+#categories {
+    text-align: center;
+}
+
